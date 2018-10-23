@@ -12,3 +12,8 @@ The code also applies a de-dopplering processing to the data in order to (virtua
 More info here:
 
 https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_new.pdf
+
+
+## generate_dechirped.py
+
+script for generating a data file containing the de-chirped Voyager signal
